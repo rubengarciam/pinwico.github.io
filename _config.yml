@@ -1,0 +1,15 @@
+title: pinwi.co
+url: "https://pinwi.co"
+baseurl: ""
+author: Ruben GM
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
